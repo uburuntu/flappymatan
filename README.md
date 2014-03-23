@@ -7,7 +7,7 @@ What I did instead is something way more primitive. This project uses nothing bu
 Live App
 ------------
 Check out a live preview of it over here:  
-http://uburuntu.github.io/floppybird
+http://uburuntu.github.io/flappymatan
 
 Cool Stuff
 ---------
