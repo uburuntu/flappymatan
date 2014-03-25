@@ -61,12 +61,12 @@ $(document).ready(function() {
    
    //get the highscore
    var savedscore = getCookie("highscore");
-   
-   if(window.location.search == "?hack")
-      highscore = 80000000;
+
    if(savedscore != "")
       highscore = parseInt(savedscore);
    
+   if(window.location.search == "?hack")
+      highscore = 80000000;
    //start with the splash screen
    showSplash();
 });
